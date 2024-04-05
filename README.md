@@ -1,1 +1,1 @@
-Archivos para realizar una aproximación de unos datos con forma de Sigmoide con Python.
+Archivos para realizar una aproximación de unos datos con forma de Sigmoide con Python. Se incluye un Jupyter Notebook con el código utilizado para realizar los ajustes, así como los propios datos a los que se les realiza el ajuste y la gráfica final del ajuste.
